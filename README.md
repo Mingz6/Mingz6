@@ -1,6 +1,6 @@
 # Ming Zhu
 
-Full-stack developer in Edmonton, AB. Building bots, automation, and AI stuff.
+Full-stack developer in Vancouver, BC. Building bots, automation, and AI stuff.
 
 **Currently working on:** neuro-ming — AI assistant / VTuber project
 **At work:** .NET/React developer at CRNA
