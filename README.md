@@ -2,13 +2,18 @@
 
 Senior Software Engineer — AI & Cloud. Building production systems and AI tools.
 
-**Currently:** .NET/React developer at CRNA, shipping AI agents and automation on the side.
+**Currently:** Full-stack developer at CRNA, building AI-enabled enterprise apps with .NET, React, Azure, and LLM tooling.
 
 ## Recent projects
 - [neuro-ming](https://mingz.dev/projects/neuro-ming) — AI VTuber assistant with voice, personality, and multi-turn memory
 - [worker-center](https://mingz.dev/projects/worker-center) — Dockerized scheduled job runner with LLM triage and iMessage alerts
 - [pr-reviewer-daemon](https://mingz.dev/projects/pr-reviewer-daemon) — Autonomous AI code reviewer that polls GitHub and posts inline comments
 - [mingz.dev](https://mingz.dev) — Personal portfolio and blog (Astro + SolidJS + Azure SWA)
+
+## Experience
+**Current:** CRNA — AI-enabled enterprise apps, Teams apps, Azure AI Document Intelligence, Microsoft 365 integrations, Azure Functions, Bicep, and CI/CD.
+
+**Earlier:** CGI, Alcanna, and City of Edmonton — C#/.NET applications, SQL Server reporting, integrations, monitoring, production support, and business process automation.
 
 ## Skills
 **Core:** C# / .NET · React / TypeScript · Python · Azure · SQL Server
