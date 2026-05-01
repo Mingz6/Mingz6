@@ -10,5 +10,11 @@ Senior Software Engineer — AI & Cloud. Building production systems and AI tool
 - [pr-reviewer-daemon](https://mingz.dev/projects/pr-reviewer-daemon) — Autonomous AI code reviewer that polls GitHub and posts inline comments
 - [mingz.dev](https://mingz.dev) — Personal portfolio and blog (Astro + SolidJS + Azure SWA)
 
-## Tech
-C# / .NET · TypeScript / React · Python · Azure · LLMs / Azure OpenAI · GitHub Actions · Docker · MCP
+## Skills
+**Core:** C# / .NET · React / TypeScript · Python · Azure · SQL Server
+
+**AI & Cloud:** Azure OpenAI · LLMs · MCP · RAG · Azure AI Document Intelligence/OCR · FastAPI · Bicep
+
+**Secondary:** AWS (S3, Lambda, Cognito, RDS) · Docker · GitHub Actions · Microsoft Graph · Tailwind CSS · Nx · Grafana
+
+**Historical:** SSRS · VBA/Excel automation · VB.NET · Lua · Google Apps Script
