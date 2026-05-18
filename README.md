@@ -1,8 +1,8 @@
 # Hey, I'm Ming 👋
 
-Senior Software Engineer in Edmonton, Canada. I build production systems by day and AI tools by night.
+Senior Software Engineer in Vancouver, Canada · Remote. I build production systems by day and AI tools by night.
 
-I have 8+ years shipping enterprise software — .NET, React, Azure, SQL Server — and I'm deep into AI tooling: LLMs, MCP servers, autonomous agents, and voice AI.
+8+ years shipping enterprise software — .NET, React, Azure, SQL Server — and deep into AI tooling: LLMs, MCP servers, autonomous agents, and voice AI.
 
 ## Highlights
 
