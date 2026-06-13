@@ -40,6 +40,12 @@ Senior Software Engineer in Vancouver, Canada · Remote. I build production syst
 
 **Infra:** Docker · GitHub Actions · Nx · Microsoft Graph · Tailwind CSS · Grafana
 
+## Recent Build Log
+
+<!-- BUILDLOG_START -->
+<!-- Auto-updated by .github/workflows/sync-buildlog.yml in mingz-dev on every push -->
+<!-- BUILDLOG_END -->
+
 ---
 
 📫 **[mingz.dev](https://mingz.dev)** · **[LinkedIn](https://www.linkedin.com/in/mingzhu-23374863/)**
