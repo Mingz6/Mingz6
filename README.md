@@ -43,11 +43,11 @@ Senior Software Engineer in Vancouver, Canada · Remote. I build production syst
 ## Recent Build Log
 
 <!-- BUILDLOG_START -->
+- **2026-06-15** — PriceClaw — agentic deal hunter that scrapes 5 secondhand marketplaces, scores listings with LLM triage (BUY / APPROACHING / WATCH / TYPO / SCAM), and sends iMessage alerts when something is worth buying. `python` `ai`
 - **2026-06-12** — Ship-log skill + GitHub profile auto-sync — say "what did I ship this week" and Copilot drafts your build log entries, commits them, and updates the profile README automatically. `ai` `astro`
 - **2026-05-21** — Portfolio polish — real avatar, Clarity analytics, dynamic footer year, new blog post on local AI with WhisperKit + MLX. `astro` `web` `ai`
 - **2026-05-19** — Code review + cleanup pass on mingz.dev — updated About bio, fixed preview script, added featured projects, freshened build log. `astro` `web`
 - **2026-05-12** — Worker-center v2 — modular architecture with Ming HQ orchestrator, 5 marketplace scrapers running every 15 min. `python` `ai`
-- **2026-05-05** — JobClaw hit 200+ daily postings across 20 sources. Added LLM scoring and auto-apply pipeline. `python` `ai`
 
 *Auto-updated from [mingz.dev](https://mingz.dev). Full log at [mingz.dev/#log](https://mingz.dev/#log).*
 <!-- BUILDLOG_END -->
