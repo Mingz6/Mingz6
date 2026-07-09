@@ -43,11 +43,11 @@ Senior Software Engineer in Vancouver, Canada · Remote. I build production syst
 ## Recent Build Log
 
 <!-- BUILDLOG_START -->
+- **2026-07-08** — Completed GitHub Certified: Agentic AI Developer (GH-600, Beta) training and set up a working agent on GitHub `ai`
+- **2026-07-08** — Automated nightly incremental rebuild of the brain semantic index via launchd, as a safety net alongside per-repo git hooks `ai` `typescript`
+- **2026-07-08** — Added 2 new worker-center monitors — WeChat key decrypt-watch and Outlook token health — catching auth/session issues before they break things `python` `bot`
+- **2026-07-08** — Shipped Brain MCP v1.1.0 — added semantic search, observability, and hardening; wrapped indexing writes in single transactions for reliability `typescript` `mcp` `ai`
 - **2026-06-15** — Renewed Microsoft Certified: Azure AI Engineer Associate (AI-102) — 88% on the renewal assessment. Valid until Dec 2027. `ai` `azure`
-- **2026-06-15** — PriceClaw — agentic deal hunter that scrapes 5 secondhand marketplaces, scores listings with LLM triage (BUY / APPROACHING / WATCH / TYPO / SCAM), and sends iMessage alerts when something is worth buying. `python` `ai`
-- **2026-06-12** — Ship-log skill + GitHub profile auto-sync — say "what did I ship this week" and Copilot drafts your build log entries, commits them, and updates the profile README automatically. `ai` `astro`
-- **2026-05-21** — Portfolio polish — real avatar, Clarity analytics, dynamic footer year, new blog post on local AI with WhisperKit + MLX. `astro` `web` `ai`
-- **2026-05-19** — Code review + cleanup pass on mingz.dev — updated About bio, fixed preview script, added featured projects, freshened build log. `astro` `web`
 
 *Auto-updated from [mingz.dev](https://mingz.dev). Full log at [mingz.dev/#log](https://mingz.dev/#log).*
 <!-- BUILDLOG_END -->
